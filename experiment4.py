@@ -1,5 +1,4 @@
-i
-mport csv
+import csv
 student=[{"Roll no ":"101","Name":"Anitha","Department":"CSE","Marks":99,
           "Roll no ":"102","Name":"Bala","Department":"CSE","Marks":91,
           "Roll no ":"103","Name":"Chitra","Department":"ESE","Marks":78,}]
